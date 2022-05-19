@@ -1,5 +1,5 @@
 
-Bag Report structure:
+Bug Report structure:
 1)ID
 2)Sammary
 3)Description
