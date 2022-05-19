@@ -1,0 +1,14 @@
+
+Bag Report structure:
+1)ID
+2)Sammary
+3)Description
+4)Severity
+5)Priority
+6)Date and time
+7)Version and build of the Software Under Test
+8)Reported by
+9)Related requirement
+10)Attachments/evidence
+11)Conclusion
+
