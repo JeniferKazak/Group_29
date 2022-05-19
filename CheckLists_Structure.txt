@@ -1,0 +1,7 @@
+A checklist is a set of ideas that are logically related.
+We can create checklists for:
+-typical user scenarios,
+-different levels of functional testing,
+-individual parts (modules and submodules) of the application,
+-individual requirements, groups of requirements, levels and types of requirements,
+-the parts or functions of the application that are most at risk. 
